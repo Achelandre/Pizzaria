@@ -138,37 +138,7 @@ A navegação é dividida em 4 seções principais:
 - Tipagem TypeScript para evitar erros em tempo de compilação
 - Validação de entrada de usuário
 
-## 📈 Melhorias Futuras
-- [ ] Autenticação de usuário
-- [ ] Banco de dados (MongoDB/PostgreSQL)
-- [ ] API REST
-- [ ] Integração com sistemas de pagamento
-- [ ] Notificações em tempo real
-- [ ] Modo offline com sincronização
-- [ ] Testes automatizados
-- [ ] Dark mode
 
-## 👨‍💻 Desenvolvedor
 
-**Alexa** - [GitHub](https://github.com/Achelandre)
 
-## 📄 Licença
 
-Este projeto está sob a licença ISC. Veja o arquivo `package.json` para mais detalhes.
-
-## 🤝 Contribuições
-
-Contribuições são bem-vindas! Sinta-se à vontade para:
-1. Fazer um Fork do projeto
-2. Criar uma branch para sua feature (`git checkout -b feature/AmazingFeature`)
-3. Commit suas mudanças (`git commit -m 'Add some AmazingFeature'`)
-4. Push para a branch (`git push origin feature/AmazingFeature`)
-5. Abrir um Pull Request
-
-## 📞 Suporte
-
-Se encontrar problemas, abra uma [Issue](https://github.com/Achelandre/Pizzaria/issues) no repositório.
-
----
-
-**Desenvolvido com ❤️ para a melhor pizzaria da cidade! 🍕**
